@@ -275,7 +275,6 @@ Ok
 Leurak when you publish Bonzify source code?
 Leurak my friend make new video for VineMemz
 with all payloads fixed
-😄
 THANKS LEURAK TO GIVE ME VINEMEMZ-ORIGINAL TNX
 I'm find all assets and build VineMemz with assets and all payloads works fine
 Thanks Leurak for source code
@@ -298,7 +297,6 @@ Leurak why you not make Petya Ransomware?
 Leurak can you make own MBR ransomware with key?
 Leurak can make MBR ransomware in C++ without assembly?
 oh
-"WriteFile(v3, L""Ooops, your important files are encrypted.\r\n"",              ""\r\n"",              ""If you see this text, then your files are no longer accessible, because\r\n"",              ""they have been encrypted. Perhaps you are busy looking for a way to recover\r\n"",              ""your files, but don't waste your time. Nobody can recover your files without\r\n"",              ""our decryption service.\r\n"",              ""\r\n"",              ""We guarantee that you can recover all your files safely and easily.\r\n"",              ""All you need to do is submit the payment and purchase the decryption key.\r\n"",              ""\r\n"",              ""Please follow the instructions:\r\n"",              ""\r\n"",              ""1.\tSend $300 worth of Bitcoin to following address:\r\n"",              ""\r\n"",,             0x432u,,             &NumberOfBytesWritten,,             0);,           WriteFile(v3, L""1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX\r\n\r\n"", 0x4Cu, &NumberOfBytesWritten, 0);,           WriteFile(,             v3,,             L""2.\tSend your Bitcoin wallet ID and personal installation key to e-mail "",,             0x8Eu,,             &NumberOfBytesWritten,,             0);,           WriteFile(v3, L""wowsmith123456@posteo.net.\r\n"", 0x38u, &NumberOfBytesWritten, 0);,           WriteFile(v3, L""\tYour personal installation key:\r\n\r\n"", 0x48u, &NumberOfBytesWritten, 0);,           WriteFile(v3, lpBuffer, 2 * wcslen((const unsigned __int16 *)lpBuffer), &NumberOfBytesWritten, 0);"
 Like NotPetya Ransomware
 This is destroyed my boot
 This is how to trash 10 sectors on Hard Drive
@@ -417,7 +415,6 @@ Channel not terminated
 Your VineMemz is fake
 My is better
 Leurak but you for VineMemz say
-"Copyright (c) 2016 Leurak, , Permission is hereby granted, free of charge, to any person obtaining a copy, of this software and associated documentation files (the ""Software""), to deal, in the Software without restriction, including without limitation the rights, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell, copies of the Software, and to permit persons to whom the Software is, furnished to do so, subject to the following conditions:, , The above copyright notice and this permission notice shall be included in all, copies or substantial portions of the Software., , THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR, IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE, AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER, LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE, SOFTWARE., © 2018 GitHub, Inc."
 So thanks Leurak
 I'm have download link
 What?
@@ -487,7 +484,6 @@ but
 PayloadChangeColors not work on Windows 7 and older
 Yes
 PayloadChangeColors changing colors on screen
-"Requirements,       , Windows version    Windows 8 [desktop apps only] Windows Server 2012 [desktop apps only], Target Platform    Windows"
 Header    magnification.h
 HAHAHAA
 i'm builded and working
@@ -565,7 +561,6 @@ And license to modify and distribute
 Why?
 ??
 License of VineMemz say this
-"MIT License, , Copyright (c) 2016 Leurak, , Permission is hereby granted, free of charge, to any person obtaining a copy, of this software and associated documentation files (the ""Software""), to deal, in the Software without restriction, including without limitation the rights, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell, copies of the Software, and to permit persons to whom the Software is, furnished to do so, subject to the following conditions:, , The above copyright notice and this permission notice shall be included in all, copies or substantial portions of the Software., , THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR, IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE, AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER, LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE, SOFTWARE."
 But
 I hate Assembly to much
 Yes i'm have Bolbi
@@ -608,7 +603,6 @@ Wha is  llugnuto?
 But stupid people so stupid to click on virus?
 And what is Spend Dog?
 Leurak thank you for MIT License
-"Permission is hereby granted, free of charge, to any person obtaining a copy, of this software and associated documentation files (the ""Software""), to deal, in the Software without restriction, including without limitation the rights, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell, copies of the Software"
 Why?
 No
 Still Oleg N. Scherbakov
@@ -678,7 +672,6 @@ icacls C:\Windows\Leurak.exe  /Grant Users:F
 I'm Vbs or Exe?
 If a vbs
 simply write this
-"Key.Regwrite ""HKLM\System\CurrentControlSet\Control\SafeBoot\AlternateShell"",""notepad.exe"", ""REG_SZ"", Key.Regwrite ""HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName"",""Bolbi"", ""REG_SZ"", Key.Regwrite ""HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\legalnoticetitle"",""ATTENTION!"", ""REG_SZ"", Key.Regwrite ""HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\legalnoticecaption"",""Your PC has been wrecked by Bolbi!"", ""REG_SZ"", Key.Regwrite ""HKCU\Control Panel\International\s1159"",""Bolbi"", ""REG_SZ"", Key.Regwrite ""HKCU\Control Panel\International\s2359"",""Bolbi"", ""REG_SZ"""
 Is good?
 Ok
 OH NOOO
@@ -793,7 +786,6 @@ You license for Bonzify say
 "Commercial use = Yes,  Modification = Yes,  Distribution = Yes,  Private use = Yes"
 You license say yes
 Readme say
-"Bonzify, READ THIS BEFORE YOU SUBMIT AN ISSUE, , Source Code will be coming soon™, because I have to improve the rushed code a lot, add disclaimers and stuff..."
 Leurak you say don't allow to share it
 but License allows
 Leurak you change the License?
@@ -884,7 +876,6 @@ It does not matter Bandicam
 but tell me Leurak why VineMemz not work on Windows Vista?
 Sexually is very very bad
 What?
-"Sub Write1, On Error Resume Next, Set fso = CreateObject(""Scripting.FileSystemObject""), Set file = fso.CreateTextFile(User & ""\Desktop\Bolbi.txt""), file.Write ""SLAP SLAP SLAP CLAP CLAP CLAP"", End Sub"
 Oh no
 i'm run Bolbi on my real PC
 pls tell me how to fix PC?
@@ -918,10 +909,8 @@ Idk
 Ultrasonic
 you a fucking idiot
 because use this
-"int main(int argc, char **argv) {,     ::ShowWindow(::GetConsoleWindow(), SW_HIDE);"
 HAHAA SHIT CODE
 You a too dumb
-"int _stdcall WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR lpCmd, int nCmdShow)"
 Is the best
 You brain dead
 And Windows App is usefull
@@ -976,9 +965,6 @@ Earth is to badly fucked
 You hate Earth?
 Who born the Earth and Sun?
 What is notch?
-taskkill /f /im explorer.exe && start explorer.exe
-takeown /f C:\Windows\System32\
-icacls C:\Windows\System32  /Grant Users:F
 Yes
 C++ is so easy
 Assembly is so hard!
@@ -1021,15 +1007,10 @@ Oh
 I'm compile VineMemz
 You is stupid
 I would like to add this of VineMemz
-"} else {,             if (MessageBoxA(NULL, ""The software you just executed is considered malware.\r\n\, This malware will harm your computer and makes it unusable.\r\n\, If you are seeing this message without knowing what you just executed, simply press No and nothing will happen.\r\n\, If you know what this malware does and are using a safe environment to test, \, press Yes to start it.\r\n\r\n\, DO YOU WANT TO EXECUTE THIS MALWARE, RESULTING IN AN UNUSABLE MACHINE?"", ""VineMEMZ"", MB_YESNO | MB_ICONWARNING) != IDYES ||, MessageBoxA(NULL, ""THIS IS THE LAST WARNING!\r\n\r\n\, THE CREATOR IS NOT RESPONSIBLE FOR ANY DAMAGE MADE USING THIS MALWARE!\r\n\, STILL EXECUTE IT?"", ""VineMEMZ"", MB_YESNO | MB_ICONWARNING) != IDYES) {,                 ExitProcess(0);"
 Or not?
 Is my favorite command
-"ShellExecuteW(NULL, L""open"", L""BonziBDY_35.EXE"", L"""", temp, SW_SHOWDEFAULT);"
-"LPCWSTR msg = L""WARNING: Getting rid of Bonzi will also kill your system!"";"
-"LPCWSTR msg = L""WARNING: Getting rid of Leurak will also kill your system!"";"
 And you try to get rid of Leurak
 Is Leurak.exe stopped working
-"LPCWSTR msg = L""WARNING: Getting rid of NullException of discord you will free forever"";"
 Ok
 but why hate me?
 CSucks
